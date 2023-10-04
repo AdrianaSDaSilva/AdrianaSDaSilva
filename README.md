@@ -4,7 +4,7 @@ Soy Adriana Da Silva, soy contadora y programadora, tengo conocimientos en Java,
 
 Actualmente estoy cursando la carrera de Tecnicatura Universitaria en rogramación de la UTN FRSR y trabajo en SC Johnson desempeñando el rol de Automation Champion Plus en donde me dedico la principal parte del tiempo a realizar automatizaciones de procesos manuales dentro del área contable. 
 
-El proyecto en el cual me encuentro trabajando en este momento es la automatización de las conciliaciones bancarias y estamos iniciando en paralelo un proyecto de automatización del P&L con visualización en Power BI.
+El proyecto en el cual me encuentro trabajando en este momento es la automatización de las conciliaciones bancarias y estamos iniciando en paralelo un proyecto de automatización del P&L (Profit and Loss - Estado de Resultados) con extracción de datos desde un datalake (que se alimenta de SAP) para su posterior visualización y análisis en Power BI.
 
 ## Redes Sociales 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dasilvaadrianasoledad) 
